@@ -301,13 +301,13 @@ If you upgrade to a new computer:
 A: PowerVault will prompt you to activate with a license key. All your data remains secure and accessible once activated.
 
 **Q: Do I need internet to activate?**
-A: No! PowerVault uses offline activation. Generate your license key locally with the provided generator app.
+A: No! PowerVault uses offline activation. Contact buggsy1979@gmail.com for sales, licensing costs, and information to receive your unique activation key.
 
 **Q: Can I use one license on multiple computers?**
 A: Personal licenses are for single-device use. Business licenses support multiple activations.
 
 **Q: What if I lose my license key?**
-A: Keep your purchase email safe! You can regenerate your key using the license generator with your original Hardware ID.
+A: Keep your purchase email safe! If you lose your license key, contact buggsy1979@gmail.com with your original purchase details and Hardware ID for assistance.
 
 **Q: Are updates included?**
 A: Yes! Lifetime licenses include all future updates at no additional cost.
