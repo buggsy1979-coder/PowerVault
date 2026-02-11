@@ -243,32 +243,42 @@ PowerVault uses an **offline licensing system** with hardware binding for maximu
 
 ### 🛒 How to Purchase
 
-1. Visit **[PowerVault License Store](#)** *(link coming soon)*
-2. Select your license type
-3. Complete secure checkout
-4. Receive license key via email instantly
+**To purchase a PowerVault license:**
+
+1. **Email**: buggsy1979@gmail.com
+2. **Subject**: PowerVault License Purchase Request
+3. **Include**:
+   - License type (Personal or Business)
+   - Your Hardware ID (from PowerVault activation screen)
+   - Organization or Personal name for registration
+4. **Payment**: You will receive PayPal payment information via email
+   - PayPal provides protection for both buyer and seller
+5. **Activation**: Once payment is received, you will be sent your unique registration key
+6. **Lifetime Access**: Your license activates PowerVault for life with free updates and feature releases forever
 
 ### ⚙️ Activation Process
 
-**Step 1: Request Activation**
+**Step 1: Get Your Hardware ID**
 1. Launch PowerVault
 2. When trial expires, click **"Activate License"** button
 3. Click **"Request Activation"** to view your Hardware ID
 4. Your unique Hardware ID will be displayed - **copy this**
 
-**Step 2: Generate License Key**
-1. Use the provided **License Generator** application (sent with purchase)
-2. Enter your organization/name
-3. Paste your Hardware ID
-4. Click **"Generate License"** to create your unique license key
-5. Copy the generated license key
+**Step 2: Request License from Developer**
+1. **Email**: buggsy1979@gmail.com with the following information:
+   - Your Hardware ID (copied from Step 1)
+   - Organization name or Personal name for registration
+   - License type desired (Personal or Business)
+2. **Receive PayPal Information**: You'll get payment instructions via email
+3. **Complete Payment**: Pay securely via PayPal (provides buyer and seller protection)
+4. **Receive Registration Key**: Once payment is confirmed, your unique license key will be emailed to you
 
 **Step 3: Activate PowerVault**
 1. Return to PowerVault activation dialog
 2. Click **"Enter License Key"** button
-3. Paste your license key
+3. Paste your registration key (received via email)
 4. Click **"Activate"**
-5. Success! PowerVault is now fully licensed
+5. Success! PowerVault is now fully licensed for life with free updates forever
 
 ### 🔒 Hardware Binding Security
 
@@ -280,10 +290,10 @@ PowerVault uses an **offline licensing system** with hardware binding for maximu
 
 ### 🔄 License Transfer
 
-If you upgrade your computer:
-1. Contact support with proof of purchase
-2. Receive new license key for updated hardware
-3. One-time transfer allowed per license
+If you upgrade to a new computer:
+1. **Email**: buggsy1979@gmail.com to request a new activation code
+2. **Include**: Your original purchase details and new Hardware ID
+3. **Note**: A small license generating fee may be applicable at this point
 
 ### ❓ Licensing FAQ
 
@@ -411,7 +421,7 @@ A: Yes! Lifetime licenses include all future updates at no additional cost.
 ### Common Issues
 
 **Issue: Forgot Master Password**
-- **Solution**: Master password cannot be recovered. If lost, data cannot be accessed. Use emergency recovery procedures if configured.
+- **Solution**: Losing this password or any other password within PowerVault is a **critical issue** and will result in the **loss of your data**. Passwords are military-grade protected and **cannot be recovered by any means**. There is no password reset or recovery option.
 
 **Issue: Application Won't Start**
 - Check .NET 8.0 Runtime is installed
@@ -441,7 +451,7 @@ A: Yes! Lifetime licenses include all future updates at no additional cost.
 
 - **Documentation**: Complete user guide included in installation
 - **GitHub Issues**: Report bugs at [GitHub Issues](https://github.com/buggsy1979-coder/PowerVault/issues)
-- **Email Support**: support@powervault.com *(coming soon)*
+- **Email Support**: buggsy1979@gmail.com
 
 ---
 
@@ -484,7 +494,7 @@ All rights reserved. Unauthorized distribution, modification, or reverse enginee
 ## 🤝 Support & Contact
 
 - **Website**: *(coming soon)*
-- **Email**: support@powervault.com *(coming soon)*
+- **Email**: buggsy1979@gmail.com
 - **GitHub**: [buggsy1979-coder/PowerVault](https://github.com/buggsy1979-coder/PowerVault)
 - **Issues**: [Report a Bug](https://github.com/buggsy1979-coder/PowerVault/issues)
 - **Releases**: [Download Latest Version](https://github.com/buggsy1979-coder/PowerVault/releases)
